@@ -1,0 +1,17 @@
+img{
+    height: auto;
+    width: 100%;
+    margin: 2;
+    padding: .7rem;
+}
+.inputfield{
+    font-size: x-small;
+    height: 40px;
+    margin-top: 5px;
+    width: 100%;
+}
+.forgotpassword{
+    display: flex;
+    justify-content: flex-end;
+    font-size: .7rem;
+}
