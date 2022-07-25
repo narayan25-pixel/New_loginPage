@@ -20,3 +20,7 @@ img {
 .border-dark {
   border: 1px solid black;
 }
+.loginbtncolor {
+  background-color: #0951f7;
+  color: white;
+}
